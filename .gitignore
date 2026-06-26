@@ -2,4 +2,12 @@
 __pycache__/
 *.pyc
 .DS_Store
-.vscode/git add .
+.vscode/
+.env
+
+# Build artifacts
+build/
+dist/
+
+# Logs
+*.log
